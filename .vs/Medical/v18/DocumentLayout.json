@@ -1,0 +1,385 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|c:\\users\\admin\\desktop\\hcl hackathon\\pharmacyapi\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|c:\\users\\admin\\desktop\\hcl hackathon\\pharmacyapi\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|c:\\users\\admin\\desktop\\hcl hackathon\\pharmacyapi\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|c:\\users\\admin\\desktop\\hcl hackathon\\pharmacyapi\\services\\medicineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\services\\medicineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|c:\\users\\admin\\desktop\\hcl hackathon\\pharmacyapi\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|c:\\users\\admin\\desktop\\hcl hackathon\\pharmacyapi\\helpers\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\helpers\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|c:\\users\\admin\\desktop\\hcl hackathon\\pharmacyapi\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|c:\\users\\admin\\desktop\\hcl hackathon\\pharmacyapi\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|c:\\users\\admin\\desktop\\hcl hackathon\\pharmacyapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|c:\\users\\admin\\desktop\\hcl hackathon\\pharmacyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|c:\\users\\admin\\desktop\\hcl hackathon\\pharmacyapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|c:\\users\\admin\\desktop\\hcl hackathon\\pharmacyapi\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|c:\\users\\admin\\desktop\\hcl hackathon\\pharmacyapi\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|c:\\users\\admin\\desktop\\hcl hackathon\\pharmacyapi\\models\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\models\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|c:\\users\\admin\\desktop\\hcl hackathon\\pharmacyapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|c:\\users\\admin\\desktop\\hcl hackathon\\pharmacyapi\\controllers\\prescriptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\controllers\\prescriptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|c:\\users\\admin\\desktop\\hcl hackathon\\pharmacyapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|c:\\users\\admin\\desktop\\hcl hackathon\\pharmacyapi\\dtos\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\dtos\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|c:\\users\\admin\\desktop\\hcl hackathon\\pharmacyapi\\controllers\\medicinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\controllers\\medicinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|c:\\users\\admin\\desktop\\hcl hackathon\\pharmacyapi\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|c:\\users\\admin\\desktop\\hcl hackathon\\pharmacyapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A324FEE-957A-DE32-47EA-FEA5A99729F0}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "PharmacyAPI\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Repositories\\Repository.cs",
+              "RelativeToolTip": "PharmacyAPI\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwDcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T11:33:55.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "PharmacyAPI\\Services\\AdminService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Services\\AdminService.cs",
+              "RelativeToolTip": "PharmacyAPI\\Services\\AdminService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAwwEMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T11:33:27.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MedicineService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Services\\MedicineService.cs",
+              "RelativeDocumentMoniker": "PharmacyAPI\\Services\\MedicineService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Services\\MedicineService.cs",
+              "RelativeToolTip": "PharmacyAPI\\Services\\MedicineService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T10:35:52.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "PharmacyAPI\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "PharmacyAPI\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T10:33:51.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Models\\Medicine.cs",
+              "RelativeDocumentMoniker": "PharmacyAPI\\Models\\Medicine.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Models\\Medicine.cs",
+              "RelativeToolTip": "PharmacyAPI\\Models\\Medicine.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T10:19:29.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Helpers\\FileHelper.cs",
+              "RelativeDocumentMoniker": "PharmacyAPI\\Helpers\\FileHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Helpers\\FileHelper.cs",
+              "RelativeToolTip": "PharmacyAPI\\Helpers\\FileHelper.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T10:30:26.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Helpers\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "PharmacyAPI\\Helpers\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Helpers\\JwtHelper.cs",
+              "RelativeToolTip": "PharmacyAPI\\Helpers\\JwtHelper.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T10:30:05.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Helpers\\EmailHelper.cs",
+              "RelativeDocumentMoniker": "PharmacyAPI\\Helpers\\EmailHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Helpers\\EmailHelper.cs",
+              "RelativeToolTip": "PharmacyAPI\\Helpers\\EmailHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T10:30:00.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PharmacyAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PharmacyAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T10:20:01.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "PharmacyAPI\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Models\\Order.cs",
+              "RelativeToolTip": "PharmacyAPI\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T10:19:38.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "PharmacyAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\appsettings.json",
+              "RelativeToolTip": "PharmacyAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-27T08:58:15.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "PharmacyAPI\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Models\\OrderItem.cs",
+              "RelativeToolTip": "PharmacyAPI\\Models\\OrderItem.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T10:19:23.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "PharmacyAPI\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Models\\Payment.cs",
+              "RelativeToolTip": "PharmacyAPI\\Models\\Payment.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T10:19:16.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Prescription.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Models\\Prescription.cs",
+              "RelativeDocumentMoniker": "PharmacyAPI\\Models\\Prescription.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Models\\Prescription.cs",
+              "RelativeToolTip": "PharmacyAPI\\Models\\Prescription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T10:17:09.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PharmacyAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Models\\User.cs",
+              "RelativeToolTip": "PharmacyAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T09:43:57.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PrescriptionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Controllers\\PrescriptionsController.cs",
+              "RelativeDocumentMoniker": "PharmacyAPI\\Controllers\\PrescriptionsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Controllers\\PrescriptionsController.cs",
+              "RelativeToolTip": "PharmacyAPI\\Controllers\\PrescriptionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T09:56:43.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DTOs.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\DTOs\\DTOs.cs",
+              "RelativeDocumentMoniker": "PharmacyAPI\\DTOs\\DTOs.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\DTOs\\DTOs.cs",
+              "RelativeToolTip": "PharmacyAPI\\DTOs\\DTOs.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAApwBcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T09:03:50.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MedicinesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Controllers\\MedicinesController.cs",
+              "RelativeDocumentMoniker": "PharmacyAPI\\Controllers\\MedicinesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Controllers\\MedicinesController.cs",
+              "RelativeToolTip": "PharmacyAPI\\Controllers\\MedicinesController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T08:22:41.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PharmacyAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PharmacyAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T08:22:28.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "PharmacyAPI\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "PharmacyAPI\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T08:21:32.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "PharmacyAPI\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HCL Hackathon\\PharmacyAPI\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "PharmacyAPI\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T08:16:39.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
