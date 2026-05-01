@@ -462,10 +462,10 @@ docker run -p 4200:80 medify
 
 | 👤 Member | 🎯 Role | 🔧 What they shipped |
 |:---:|:---:|:---:|
-| **Yuvasree R** | Backend Engineer | API design · JWT auth · DB schema |
-| **Rohith K** | Frontend Engineer |  UI components · forms · routing · responsive layouts |
+| **Yuvasree R** | Backend Engineer | API design · JWT auth · user lows ·DB schema |
+| **Rohith K** | Frontend Engineer |  UI components · forms · JWT auth · routing · responsive layouts |
 | **Gajendran N** | Backend Engineer | Service layer · business rules · audit logging |
-| **Tungala Kavya Sri** | UX & Pitch Lead | Field research · user flows · pitch deck · demo |
+| **Tungala Kavya Sri** | UX & Pitch Lead | Field research  · pitch deck · demo |
 
 <br/>
 
