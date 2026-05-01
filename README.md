@@ -262,8 +262,8 @@ Medify is a **full-stack, role-based pharmacy operations platform** that turns c
 
 ```
    08:00  |  Staff logs in           ->  JWT issued, dashboard loads in <1s
-   08:15  |  Customer asks for amoxicillin
-          |                          ->  Inventory shows 12 strips, expiry OK
+   08:15  |  Customer asks for 
+          |  Amoxicillin             ->  Inventory shows 12 strips, expiry OK
    08:16  |  Order placed            ->  Stock auto-decrements to 11
    10:30  |  System alert            ->  "Insulin: 4 units left, threshold 5"
    10:31  |  Pharmacist re-orders    ->  Auto-routed to top-rated supplier
