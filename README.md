@@ -2,16 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Medify&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Where%20pharmacies%20stop%20guessing%20and%20start%20knowing.&descSize=18&descAlignY=60" width="100%"/>
 
-<br/>
 
-### *A pharmacy doesn't run out of paracetamol because demand spiked.*
-### *It runs out because no one was watching.*
+> *A pharmacy doesn't run out...*       
+> *It runs out because no one was watching.*
 
-<br/>
-
-**Built by Team `Hacktivators` for the HCL Hackathon**
-
-<br/>
+**Built by Team `Hacktivators` · HCL Hackathon**
 
 [![Angular](https://img.shields.io/badge/Angular-21-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/)
 [![.NET](https://img.shields.io/badge/.NET-Core_Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
@@ -22,10 +17,14 @@
 
 <br/>
 
+<table align="center"><tr><td>
+
 ```diff
 + Patient walks in. Drug is in stock. Prescription filled. Life saved.
 - Patient walks in. Drug expired last Tuesday. Nobody noticed.
 ```
+
+</td></tr></table>
 
 
 <br/>
